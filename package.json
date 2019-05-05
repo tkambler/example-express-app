@@ -1,0 +1,14 @@
+{
+  "name": "example-express-app",
+  "version": "1.0.0",
+  "description": "Example Express App",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "author": "Tim Ambler <tkambler@gmail.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "4.16.4"
+  }
+}
